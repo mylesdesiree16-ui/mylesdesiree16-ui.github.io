@@ -1,0 +1,8 @@
+Starting mission for ScoutBot-X1: Exploring the surface of Mars for signs of water
+Step 1: Moving forward
+Step 2: Moving forward
+Step 3: Turning left
+Step 4: Scanning the area
+Step 5: Analyzing soil samples
+Step 6: Stopping
+Mission complete!
